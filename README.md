@@ -59,4 +59,4 @@ Atividade prática para reforçar os conceitos de manipulação de objetos, arra
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone (https://github.com/rafaelpdita394/seletores)
